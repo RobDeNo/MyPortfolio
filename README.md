@@ -3,9 +3,14 @@
 
 WELCOME TO MY FIRST PORTFOLIO!!!
 
-This is, Project#2 for free code camp. This is the portfolio I am making for myself with what i have learned so far in HTML/jQ/CSS
+This i my Second Project that i am doing forfreecodecamp.com
+From what i have learned so far in front-end development.
+Languages being used
+-HTML
+-jQuery
+-CSS
 
-Going to turn this Read Me into an actual time base update page so everytime i make changes i can note them here then upload them directly to GitHub
+This will be an update log of what i have done to my portfolio
 
 December 31, 2016
 -Connect GitKraken with GitHub
