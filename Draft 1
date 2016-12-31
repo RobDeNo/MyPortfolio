@@ -41,7 +41,7 @@ h3 {
 #portfolio-shortcuts {
   font-family: sans-serif;
   font-style: italic;
-  padding-top: 100px;
+  padding-top: 99px;
   margin-top: 50px;
   border-bottom-style: double;
 }
